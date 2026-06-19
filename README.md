@@ -6,6 +6,7 @@
 
 <p align="left">
   <a href="mailto:yidnekachewtebeje@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~01069eda317aa16896"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=flat-square&logo=upwork&logoColor=white"></a>
   <a href="https://github.com/yidyetebeje?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Addis%20Ababa-Ethiopia-0F766E?style=flat-square">
 </p>
