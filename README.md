@@ -26,6 +26,19 @@
 | [Ride Share](https://github.com/yidyetebeje/ride_share) | Microservice ride-hailing backend covering users, drivers, rides, payments, notifications, and analytics. | TypeScript, Node.js, Django, NestJS |
 | [A2SV G46 Stats](https://github.com/yidyetebeje/a2svg46stat) | Cohort analytics dashboard built from LeetCode handles for A2SV G46. | Next.js, TypeScript, Firebase |
 
+## Private product work
+
+These are private repositories, so I am listing the work without repo links.
+
+| Product area | What it shows | Stack |
+| --- | --- | --- |
+| Circtek VPP / MDM backend | Apple Business/School Manager VPP licensing, NanoMDM command orchestration, enterprise app installation, and signed manifest delivery. | Rust, Apple VPP/MDM, NanoMDM, AWS S3 |
+| Circtek cloud and buyback systems | Product backend and infrastructure work around device workflows, cloud deployment, and operational tooling. | TypeScript, AWS, backend APIs |
+| Botero AI travel assistant | Multi-agent travel assistant with router, information, recommendation, itinerary, and booking agents for Colombia travel planning. | TypeScript, Next.js, LangChain, LangGraph, OpenAI |
+| Senda Hotels platform and bot | Hospitality product work across a hotel web experience and chatbot-driven guest workflows. | TypeScript, web apps, chatbot flows |
+| A2SV application tracker | Internal application tracking product with data-heavy admin UI, tables, rich editing, and workflow management. | Next.js, React, MUI, React Query |
+| AI chatbot platform | Document-aware AI chat experience with retrieval, file handling, auth, and streaming assistant responses. | Next.js, AI SDK, LangChain, OpenAI, Supabase |
+
 ## Current focus
 
 - Improving AI-assisted search and retrieval for personal and organizational files.
