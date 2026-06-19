@@ -19,19 +19,11 @@
 
 ## Featured work
 
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [Semantic File Explorer AASTU](https://github.com/yidyetebeje/semantic_file_explorer_aastu) | AI-powered local file explorer with semantic search for documents and images, offline embeddings, file watching, and LanceDB vector search. | Rust, Tauri, React, TypeScript, LanceDB |
-| [Semantic File Explorer](https://github.com/yidyetebeje/semantic_file_explorer) | Privacy-first desktop search app focused on finding files by meaning instead of only filename matches. | Rust, Tauri, React, Jotai, TailwindCSS |
-| [Ride Share](https://github.com/yidyetebeje/ride_share) | Microservice ride-hailing backend covering users, drivers, rides, payments, notifications, and analytics. | TypeScript, Node.js, Django, NestJS |
-| [A2SV G46 Stats](https://github.com/yidyetebeje/a2svg46stat) | Cohort analytics dashboard built from LeetCode handles for A2SV G46. | Next.js, TypeScript, Firebase |
-
-## Private product work
-
-These are private repositories, so I am listing the work without repo links.
+Private products are listed without repo links.
 
 | Product area | What it shows | Stack |
 | --- | --- | --- |
+| [Semantic File Explorer](https://github.com/yidyetebeje/semantic_file_explorer_aastu) | AI-powered local file explorer with semantic search for documents and images, offline embeddings, file watching, and LanceDB vector search. | Rust, Tauri, React, TypeScript, LanceDB |
 | Circtek VPP / MDM backend | Apple Business/School Manager VPP licensing, NanoMDM command orchestration, enterprise app installation, and signed manifest delivery. | Rust, Apple VPP/MDM, NanoMDM, AWS S3 |
 | Circtek cloud and buyback systems | Product backend and infrastructure work around device workflows, cloud deployment, and operational tooling. | TypeScript, AWS, backend APIs |
 | Botero AI travel assistant | Multi-agent travel assistant with router, information, recommendation, itinerary, and booking agents for Colombia travel planning. | TypeScript, Next.js, LangChain, LangGraph, OpenAI |
