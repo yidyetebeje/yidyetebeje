@@ -57,6 +57,5 @@ Private products are listed without repo links.
 ## GitHub signal
 
 <p align="left">
-  <img height="165" alt="Yidnekachew's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yidyetebeje&show_icons=true&hide_border=true&rank_icon=github&theme=transparent">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yidyetebeje&layout=compact&hide_border=true&theme=transparent">
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yidyetebeje&layout=compact&hide_border=true&theme=transparent">
 </p>
