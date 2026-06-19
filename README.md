@@ -1,19 +1,57 @@
-Hi 👋 My name is Yidnekachew Tebeje
-===================================
+<h1 align="left">Yidnekachew Tebeje</h1>
 
-* 🌍  I'm based in Addis Ababa, Ethiopia
-* ✉️  You can contact me at [yidnekachewtebeje@gmail.com](mailto:yidnekachewtebeje@gmail.com)
-* 🤝  I'm open to collaborating on system development and architecture
-* ⚡  Great enthusiast
+<p align="left">
+  <strong>Full-stack and AI engineer</strong> building local-first AI tools, backend systems, and product-facing web apps.
+</p>
 
+<p align="left">
+  <a href="mailto:yidnekachewtebeje@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/yidyetebeje?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Addis%20Ababa-Ethiopia-0F766E?style=flat-square">
+</p>
 
+## What I build
 
-### Socials
+- Local-first AI apps: semantic search over files, documents, and images with embeddings, vector search, and desktop runtimes.
+- Full-stack products: TypeScript, React, Next.js, NestJS/Express, Python/Django, Firebase, and PostgreSQL.
+- Systems and backend work: Rust services, API design, background indexing, microservice architecture, and deployment-ready structure.
+- Developer and education tooling: A2SV dashboards, competitive-programming data workflows, and cohort analytics.
 
-<p align="left"> <a href="https://www.github.com/yidyedelina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+## Featured work
 
-### Badges
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [Semantic File Explorer AASTU](https://github.com/yidyetebeje/semantic_file_explorer_aastu) | AI-powered local file explorer with semantic search for documents and images, offline embeddings, file watching, and LanceDB vector search. | Rust, Tauri, React, TypeScript, LanceDB |
+| [Semantic File Explorer](https://github.com/yidyetebeje/semantic_file_explorer) | Privacy-first desktop search app focused on finding files by meaning instead of only filename matches. | Rust, Tauri, React, Jotai, TailwindCSS |
+| [Ride Share](https://github.com/yidyetebeje/ride_share) | Microservice ride-hailing backend covering users, drivers, rides, payments, notifications, and analytics. | TypeScript, Node.js, Django, NestJS |
+| [A2SV G46 Stats](https://github.com/yidyetebeje/a2svg46stat) | Cohort analytics dashboard built from LeetCode handles for A2SV G46. | Next.js, TypeScript, Firebase |
 
-<b>My GitHub Stats</b>
+## Current focus
 
-<a href="http://www.github.com/yidyedelina"><img src="https://github-readme-stats.vercel.app/api?username=yidyedelina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yidyedelina's GitHub stats" /></a>
+- Improving AI-assisted search and retrieval for personal and organizational files.
+- Building reliable TypeScript/Rust backends with clear APIs and maintainable architecture.
+- Turning rough product ideas into usable applications quickly, without losing engineering discipline.
+
+## Toolbox
+
+<p align="left">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+## GitHub signal
+
+<p align="left">
+  <img height="165" alt="Yidnekachew's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yidyetebeje&show_icons=true&hide_border=true&rank_icon=github&theme=transparent">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yidyetebeje&layout=compact&hide_border=true&theme=transparent">
+</p>
